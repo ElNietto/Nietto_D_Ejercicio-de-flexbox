@@ -69,12 +69,12 @@ p{
     border-radius: 15px;
 }
 
-.cards :hover{
+.card:hover{
     background-color: rgb(140, 248, 228);
     max-width: 25rem;
     color: rgb(16, 2, 92);
     font-weight: 700;
-    -webkit-transform:skew(1deg,-5deg);
+    transform:skew(1deg,-5deg);
     border-radius: 5px;
 
 
